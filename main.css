@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Cardo:wght@700&display=swap');
+
+body{
+    /* CSS GOES HERE */
+    background-color:rgba(131, 131, 131, 0.693) ;
+    font-family: 'Alata', sans-serif;
+    font-size: 25pt;
+    letter-spacing: 0.5mm;
+    margin: auto;
+    
+    color: rgb(225, 214, 188);
+    text-align: center;    
+    
+    
+}
+
+h1{font-family: 'Cardo', serif;color:rgb(142, 142, 142) ;
+font-size: 85px;}
+
+
+p {width: 20%;margin:30px auto;}
+a{text-decoration: none;color:rgb(142, 142, 142) ;}
